@@ -1,2 +1,4 @@
-﻿!dist/
-
+﻿# The root .gitignore excludes build output (dist/) repo-wide.
+# This project's dist/ is committed so the built site can be served
+# directly from the repo. Re-include it for this folder only.
+!dist/
