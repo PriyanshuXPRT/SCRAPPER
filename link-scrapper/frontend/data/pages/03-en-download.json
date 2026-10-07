@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "page": {
+    "order": 3,
+    "depth": 1,
+    "url": "https://nodejs.org/en/download",
+    "finalUrl": "https://nodejs.org/en/download",
+    "status": 200,
+    "contentType": "text/html; charset=utf-8",
+    "title": "Node.js — Download Node.js®",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "siteName": null,
+    "lang": "en-GB",
+    "canonical": "https://nodejs.org/en/download",
+    "author": null,
+    "published": null,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Download Node.js®"
+      },
+      {
+        "level": 2,
+        "text": "Proudly supported by the partners below:"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://nodejs.org/en",
+        "external": false
+      },
+      {
+        "text": "Learn",
+        "href": "https://nodejs.org/learn",
+        "external": false
+      },
+      {
+        "text": "About",
+        "href": "https://nodejs.org/en/about",
+        "external": false
+      },
+      {
+        "text": "Download",
+        "href": "https://nodejs.org/en/download",
+        "external": false
+      },
+      {
+        "text": "Blog",
+        "href": "https://nodejs.org/en/blog",
+        "external": false
+      },
+      {
+        "text": "Docs",
+        "href": "https://nodejs.org/docs/latest/api/",
+        "external": false
+      },
+      {
+        "text": "Beta Docs",
+        "href": "https://beta.docs.nodejs.org/",
+        "external": true
+      },
+      {
+        "text": "Contribute",
+        "href": "https://github.com/nodejs/node/blob/main/CONTRIBUTING.md",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/nodejs/node",
+        "external": true
+      },
+      {
+        "text": "latest Node.js version",
+        "href": "https://nodejs.org/en/download/current",
+        "external": false
+      },
+      {
+        "text": "Docker's website",
+        "href": "https://docs.docker.com/get-started/get-docker/",
+        "external": true
+      },
+      {
+        "text": "Windows Installer (.msi)",
+        "href": "https://nodejs.org/dist/v24.21.0/node-v24.21.0-x64.msi",
+        "external": false
+      },
+      {
+        "text": "Standalone Binary (.zip)",
+        "href": "https://nodejs.org/dist/v24.21.0/node-v24.21.0-win-x64.zip",
+        "external": false
+      },
+      {
+        "text": "changelog",
+        "href": "https://github.com/nodejs/node/releases/tag/v24.21.0",
+        "external": true
+      },
+      {
+        "text": "blog post",
+        "href": "https://nodejs.org/en/blog/release/v24.21.0",
+        "external": false
+      },
+      {
+        "text": "Node.js releases",
+        "href": "https://nodejs.org/en/about/previous-releases",
+        "external": false
+      },
+      {
+        "text": "verify",
+        "href": "https://github.com/nodejs/node#verifying-binaries",
+        "external": true
+      },
+      {
+        "text": "Node.js source",
+        "href": "https://nodejs.org/dist/v24.21.0/node-v24.21.0.tar.gz",
+        "external": false
+      },
+      {
+        "text": "nightly",
+        "href": "https://nodejs.org/download/nightly/",
+        "external": false
+      },
+      {
+        "text": "previous releases",
+        "href": "https://nodejs.org/en/download/archive/current",
+        "external": false
+      },
+      {
+        "text": "unofficial",
+        "href": "https://unofficial-builds.nodejs.org/download/",
+        "external": true
+      },
+      {
+        "text": "and more",
+        "href": "https://nodejs.org/en/about/partners",
+        "external": false
+      },
+      {
+        "text": "",
+        "href": "https://www.digitalocean.com/?utm_source=nodejs-website&utm_medium=Link",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://macstadium.com/?utm_source=nodejs-website&utm_medium=Link",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://microsoft.com/?utm_source=nodejs-website&utm_medium=Link",
+        "external": true
+      },
+      {
+        "text": "v24.21.0Latest LTS",
+        "href": "https://nodejs.org/blog/release/v24.21.0",
+        "external": false
+      },
+      {
+        "text": "v26.11.0Latest Release",
+        "href": "https://nodejs.org/blog/release/v26.11.0",
+        "external": false
+      },
+      {
+        "text": "",
+        "href": "https://discord.gg/nodejs",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://bsky.app/profile/nodejs.org",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://twitter.com/nodejs",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://slack-invite.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/node-js",
+        "external": true
+      },
+      {
+        "text": "OpenJS Foundation",
+        "href": "https://openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Trademark Policy",
+        "href": "https://trademark-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Trademark List",
+        "href": "https://trademark-list.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "AI Coding Assistants Policy",
+        "href": "https://ai-coding-assistants-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Bylaws",
+        "href": "https://bylaws.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Code of Conduct",
+        "href": "https://code-of-conduct.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Cookie Policy",
+        "href": "https://www.linuxfoundation.org/cookies/",
+        "external": true
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://privacy-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Security Policy",
+        "href": "https://github.com/nodejs/node/security/policy",
+        "external": true
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://terms-of-use.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://social.lfx.dev/@nodejs",
+        "external": true
+      }
+    ],
+    "images": [],
+    "text": {
+      "excerpt": "Skip to contentDownload Node.js®Get Node.js® v24.21.0LTS for Windows using Docker with npmInfoWant new features sooner? Get the latest Node.js version instead and try the latest improvements!# Docker has specific installation instructions for each operating system. # Please refer to the official documentation at https://docker.com/get-started/ # Pull the Node.js Docker image: docker pull node:24-slim # Create a Node.js container and start a Shell session: docker run -it --rm --entrypoint sh node:24-slim # Verify the Node.js version: node -v # Should print \"v24.21.0\". # Verify npm version: npm -v # Should print \"11.19.0\".PowerShellCopy to clipboardDocker is a containerization platform. If you encounter any issues please visit Docker's websiteOr get a prebuilt Node.js® for Windows running a x64 architecture.Windows Installer (.msi)Standalone Binary (.zip) Read the changelog or blog post for this version.Learn more about Node.js releases, including the release schedule and LTS status.Learn how to verify signed SHASUMS.Looking for Node.js source? Download a signed Node.js source tarball.Check out our nightly binaries or all previous releases or the unofficial binaries for other platfor",
+      "wordCount": 195,
+      "charCount": 1372
+    },
+    "jsonLd": [],
+    "counts": {
+      "headings": 2,
+      "links": 43,
+      "externalLinks": 26,
+      "images": 0
+    },
+    "discoveredFrom": "nav",
+    "discoveredViaText": "Download",
+    "elapsedMs": 1390,
+    "error": null,
+    "botWall": null,
+    "screenshot": null
+  }
+}

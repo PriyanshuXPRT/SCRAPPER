@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "page": {
+    "order": 4,
+    "depth": 1,
+    "url": "https://nodejs.org/en/blog",
+    "finalUrl": "https://nodejs.org/en/blog",
+    "status": 200,
+    "contentType": "text/html; charset=utf-8",
+    "title": "Node.js — Blog",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "siteName": null,
+    "lang": "en-GB",
+    "canonical": "https://nodejs.org/en/blog",
+    "author": null,
+    "published": null,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Blog"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://nodejs.org/en",
+        "external": false
+      },
+      {
+        "text": "Learn",
+        "href": "https://nodejs.org/learn",
+        "external": false
+      },
+      {
+        "text": "About",
+        "href": "https://nodejs.org/en/about",
+        "external": false
+      },
+      {
+        "text": "Download",
+        "href": "https://nodejs.org/en/download",
+        "external": false
+      },
+      {
+        "text": "Blog",
+        "href": "https://nodejs.org/en/blog",
+        "external": false
+      },
+      {
+        "text": "Docs",
+        "href": "https://nodejs.org/docs/latest/api/",
+        "external": false
+      },
+      {
+        "text": "Beta Docs",
+        "href": "https://beta.docs.nodejs.org/",
+        "external": true
+      },
+      {
+        "text": "Contribute",
+        "href": "https://github.com/nodejs/node/blob/main/CONTRIBUTING.md",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/nodejs/node",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://nodejs.org/en/feed/blog.xml",
+        "external": false
+      },
+      {
+        "text": "Everything",
+        "href": "https://nodejs.org/en/blog/all",
+        "external": false
+      },
+      {
+        "text": "Announcements",
+        "href": "https://nodejs.org/en/blog/announcements",
+        "external": false
+      },
+      {
+        "text": "Releases",
+        "href": "https://nodejs.org/en/blog/release",
+        "external": false
+      },
+      {
+        "text": "Vulnerabilities",
+        "href": "https://nodejs.org/en/blog/vulnerability",
+        "external": false
+      },
+      {
+        "text": "Migration Guides",
+        "href": "https://nodejs.org/en/blog/migrations",
+        "external": false
+      },
+      {
+        "text": "Events",
+        "href": "https://nodejs.org/en/blog/events",
+        "external": false
+      },
+      {
+        "text": "Node.js 26.11.0 (Current)",
+        "href": "https://nodejs.org/en/blog/release/v26.11.0",
+        "external": false
+      },
+      {
+        "text": "Node.js 22.23.3 (LTS)",
+        "href": "https://nodejs.org/en/blog/release/v22.23.3",
+        "external": false
+      },
+      {
+        "text": "Node.js 26.10.0 (Current)",
+        "href": "https://nodejs.org/en/blog/release/v26.10.0",
+        "external": false
+      },
+      {
+        "text": "Node.js 26.9.0 (Current)",
+        "href": "https://nodejs.org/en/blog/release/v26.9.0",
+        "external": false
+      },
+      {
+        "text": "Node.js 26.8.2 (Current)",
+        "href": "https://nodejs.org/en/blog/release/v26.8.2",
+        "external": false
+      },
+      {
+        "text": "Node.js 24.21.0 (LTS)",
+        "href": "https://nodejs.org/en/blog/release/v24.21.0",
+        "external": false
+      },
+      {
+        "text": "1",
+        "href": "https://nodejs.org/en/blog/all/page/1",
+        "external": false
+      },
+      {
+        "text": "2",
+        "href": "https://nodejs.org/en/blog/all/page/2",
+        "external": false
+      },
+      {
+        "text": "3",
+        "href": "https://nodejs.org/en/blog/all/page/3",
+        "external": false
+      },
+      {
+        "text": "4",
+        "href": "https://nodejs.org/en/blog/all/page/4",
+        "external": false
+      },
+      {
+        "text": "5",
+        "href": "https://nodejs.org/en/blog/all/page/5",
+        "external": false
+      },
+      {
+        "text": "177",
+        "href": "https://nodejs.org/en/blog/all/page/177",
+        "external": false
+      },
+      {
+        "text": "v24.21.0Latest LTS",
+        "href": "https://nodejs.org/blog/release/v24.21.0",
+        "external": false
+      },
+      {
+        "text": "v26.11.0Latest Release",
+        "href": "https://nodejs.org/blog/release/v26.11.0",
+        "external": false
+      },
+      {
+        "text": "",
+        "href": "https://discord.gg/nodejs",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://bsky.app/profile/nodejs.org",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://twitter.com/nodejs",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://slack-invite.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/node-js",
+        "external": true
+      },
+      {
+        "text": "OpenJS Foundation",
+        "href": "https://openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Trademark Policy",
+        "href": "https://trademark-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Trademark List",
+        "href": "https://trademark-list.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "AI Coding Assistants Policy",
+        "href": "https://ai-coding-assistants-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Bylaws",
+        "href": "https://bylaws.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Code of Conduct",
+        "href": "https://code-of-conduct.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Cookie Policy",
+        "href": "https://www.linuxfoundation.org/cookies/",
+        "external": true
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://privacy-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Security Policy",
+        "href": "https://github.com/nodejs/node/security/policy",
+        "external": true
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://terms-of-use.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://social.lfx.dev/@nodejs",
+        "external": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://avatars.githubusercontent.com/u/14309773",
+        "alt": "Antoine du Hamel"
+      }
+    ],
+    "text": {
+      "excerpt": "Skip to contentEverythingAnnouncementsReleasesVulnerabilitiesMigration GuidesEventsCategoriesEverythingEverythingAnnouncementsReleasesVulnerabilitiesMigration GuidesEventsNode.js 26.11.0 (Current)ReleasesNode.js 26.11.0 (Current)Node.js 22.23.3 (LTS)ReleasesNode.js 22.23.3 (LTS)Node.js 26.10.0 (Current)ReleasesNode.js 26.10.0 (Current)Node.js 26.9.0 (Current)ReleasesNode.js 26.9.0 (Current)Node.js 26.8.2 (Current)ReleasesNode.js 26.8.2 (Current)Node.js 24.21.0 (LTS)ReleasesNode.js 24.21.0 (LTS)",
+      "wordCount": 29,
+      "charCount": 499
+    },
+    "jsonLd": [],
+    "counts": {
+      "headings": 1,
+      "links": 46,
+      "externalLinks": 19,
+      "images": 1
+    },
+    "discoveredFrom": "nav",
+    "discoveredViaText": "Blog",
+    "elapsedMs": 1804,
+    "error": null,
+    "botWall": null,
+    "screenshot": null
+  }
+}

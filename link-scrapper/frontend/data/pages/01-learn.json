@@ -1,0 +1,635 @@
+{
+  "version": 1,
+  "page": {
+    "order": 1,
+    "depth": 1,
+    "url": "https://nodejs.org/learn",
+    "finalUrl": "https://nodejs.org/learn",
+    "status": 200,
+    "contentType": "text/html; charset=utf-8",
+    "title": "Learn Node.js | Node.js Learn",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "siteName": null,
+    "lang": "en",
+    "canonical": "https://nodejs.org/learn",
+    "author": null,
+    "published": null,
+    "headings": [
+      {
+        "level": 1,
+        "text": "Learn Node.js"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://nodejs.org/",
+        "external": false
+      },
+      {
+        "text": "Learn",
+        "href": "https://nodejs.org/learn",
+        "external": false
+      },
+      {
+        "text": "About",
+        "href": "https://nodejs.org/about",
+        "external": false
+      },
+      {
+        "text": "Download",
+        "href": "https://nodejs.org/en/download",
+        "external": false
+      },
+      {
+        "text": "Blog",
+        "href": "https://nodejs.org/blog",
+        "external": false
+      },
+      {
+        "text": "Docs",
+        "href": "https://nodejs.org/docs/latest/api/",
+        "external": false
+      },
+      {
+        "text": "Beta Docs",
+        "href": "https://beta.docs.nodejs.org/",
+        "external": true
+      },
+      {
+        "text": "Contribute",
+        "href": "https://github.com/nodejs/node/blob/main/CONTRIBUTING.md",
+        "external": true
+      },
+      {
+        "text": "Courses",
+        "href": "https://training.linuxfoundation.org/openjs/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/nodejs/learn",
+        "external": true
+      },
+      {
+        "text": "Introduction to Node.js",
+        "href": "https://nodejs.org/learn/getting-started/introduction-to-nodejs",
+        "external": false
+      },
+      {
+        "text": "How much JavaScript do you need to know to use Node.js?",
+        "href": "https://nodejs.org/learn/getting-started/how-much-javascript-do-you-need-to-know-to-use-nodejs",
+        "external": false
+      },
+      {
+        "text": "Differences between Node.js and the Browser",
+        "href": "https://nodejs.org/learn/getting-started/differences-between-nodejs-and-the-browser",
+        "external": false
+      },
+      {
+        "text": "The V8 JavaScript Engine",
+        "href": "https://nodejs.org/learn/getting-started/the-v8-javascript-engine",
+        "external": false
+      },
+      {
+        "text": "An introduction to the npm package manager",
+        "href": "https://nodejs.org/learn/getting-started/an-introduction-to-the-npm-package-manager",
+        "external": false
+      },
+      {
+        "text": "Node version managers",
+        "href": "https://nodejs.org/learn/getting-started/node-version-managers",
+        "external": false
+      },
+      {
+        "text": "ECMAScript 2015 (ES6) and beyond",
+        "href": "https://nodejs.org/learn/getting-started/ecmascript-2015-es6-and-beyond",
+        "external": false
+      },
+      {
+        "text": "Debugging Node.js",
+        "href": "https://nodejs.org/learn/getting-started/debugging",
+        "external": false
+      },
+      {
+        "text": "Fetching data with Node.js",
+        "href": "https://nodejs.org/learn/getting-started/fetch",
+        "external": false
+      },
+      {
+        "text": "WebSocket client with Node.js",
+        "href": "https://nodejs.org/learn/getting-started/websocket",
+        "external": false
+      },
+      {
+        "text": "Node.js, the difference between development and production",
+        "href": "https://nodejs.org/learn/getting-started/nodejs-the-difference-between-development-and-production",
+        "external": false
+      },
+      {
+        "text": "Profiling Node.js Applications",
+        "href": "https://nodejs.org/learn/getting-started/profiling",
+        "external": false
+      },
+      {
+        "text": "Node.js with WebAssembly",
+        "href": "https://nodejs.org/learn/getting-started/nodejs-with-webassembly",
+        "external": false
+      },
+      {
+        "text": "Security Best Practices",
+        "href": "https://nodejs.org/learn/getting-started/security-best-practices",
+        "external": false
+      },
+      {
+        "text": "Introduction to Userland Migrations",
+        "href": "https://nodejs.org/learn/getting-started/userland-migrations",
+        "external": false
+      },
+      {
+        "text": "Run Node.js scripts from the command line",
+        "href": "https://nodejs.org/learn/command-line/run-nodejs-scripts-from-the-command-line",
+        "external": false
+      },
+      {
+        "text": "How to use the Node.js REPL",
+        "href": "https://nodejs.org/learn/command-line/how-to-use-the-nodejs-repl",
+        "external": false
+      },
+      {
+        "text": "Output to the command line using Node.js",
+        "href": "https://nodejs.org/learn/command-line/output-to-the-command-line-using-nodejs",
+        "external": false
+      },
+      {
+        "text": "Accept input from the command line in Node.js",
+        "href": "https://nodejs.org/learn/command-line/accept-input-from-the-command-line-in-nodejs",
+        "external": false
+      },
+      {
+        "text": "How to read environment variables from Node.js",
+        "href": "https://nodejs.org/learn/command-line/how-to-read-environment-variables-from-nodejs",
+        "external": false
+      },
+      {
+        "text": "Anatomy of an HTTP Transaction",
+        "href": "https://nodejs.org/learn/http/anatomy-of-an-http-transaction",
+        "external": false
+      },
+      {
+        "text": "Enterprise Network Configuration",
+        "href": "https://nodejs.org/learn/http/enterprise-network-configuration",
+        "external": false
+      },
+      {
+        "text": "Node.js file stats",
+        "href": "https://nodejs.org/learn/manipulating-files/nodejs-file-stats",
+        "external": false
+      },
+      {
+        "text": "Node.js File Paths",
+        "href": "https://nodejs.org/learn/manipulating-files/nodejs-file-paths",
+        "external": false
+      },
+      {
+        "text": "Reading files with Node.js",
+        "href": "https://nodejs.org/learn/manipulating-files/reading-files-with-nodejs",
+        "external": false
+      },
+      {
+        "text": "Writing files with Node.js",
+        "href": "https://nodejs.org/learn/manipulating-files/writing-files-with-nodejs",
+        "external": false
+      },
+      {
+        "text": "Working with file descriptors in Node.js",
+        "href": "https://nodejs.org/learn/manipulating-files/working-with-file-descriptors-in-nodejs",
+        "external": false
+      },
+      {
+        "text": "Working with folders in Node.js",
+        "href": "https://nodejs.org/learn/manipulating-files/working-with-folders-in-nodejs",
+        "external": false
+      },
+      {
+        "text": "How to work with Different Filesystems",
+        "href": "https://nodejs.org/learn/manipulating-files/working-with-different-filesystems",
+        "external": false
+      },
+      {
+        "text": "JavaScript Asynchronous Programming and Callbacks",
+        "href": "https://nodejs.org/learn/asynchronous-work/javascript-asynchronous-programming-and-callbacks",
+        "external": false
+      },
+      {
+        "text": "Asynchronous flow control",
+        "href": "https://nodejs.org/learn/asynchronous-work/asynchronous-flow-control",
+        "external": false
+      },
+      {
+        "text": "Discover Promises in Node.js",
+        "href": "https://nodejs.org/learn/asynchronous-work/discover-promises-in-nodejs",
+        "external": false
+      },
+      {
+        "text": "Discover JavaScript Timers",
+        "href": "https://nodejs.org/learn/asynchronous-work/discover-javascript-timers",
+        "external": false
+      },
+      {
+        "text": "Overview of Blocking vs Non-Blocking",
+        "href": "https://nodejs.org/learn/asynchronous-work/overview-of-blocking-vs-non-blocking",
+        "external": false
+      },
+      {
+        "text": "The Node.js Event Loop",
+        "href": "https://nodejs.org/learn/asynchronous-work/event-loop-timers-and-nexttick",
+        "external": false
+      },
+      {
+        "text": "The Node.js Event Emitter",
+        "href": "https://nodejs.org/learn/asynchronous-work/the-nodejs-event-emitter",
+        "external": false
+      },
+      {
+        "text": "Understanding process.nextTick()",
+        "href": "https://nodejs.org/learn/asynchronous-work/understanding-processnexttick",
+        "external": false
+      },
+      {
+        "text": "Understanding setImmediate()",
+        "href": "https://nodejs.org/learn/asynchronous-work/understanding-setimmediate",
+        "external": false
+      },
+      {
+        "text": "Don't Block the Event Loop",
+        "href": "https://nodejs.org/learn/asynchronous-work/dont-block-the-event-loop",
+        "external": false
+      },
+      {
+        "text": "Comparing Node.js concurrency models",
+        "href": "https://nodejs.org/learn/concurrency/comparing-nodejs-concurrency-models",
+        "external": false
+      },
+      {
+        "text": "Introduction to TypeScript",
+        "href": "https://nodejs.org/learn/typescript/introduction",
+        "external": false
+      },
+      {
+        "text": "Running TypeScript Natively",
+        "href": "https://nodejs.org/learn/typescript/run-natively",
+        "external": false
+      },
+      {
+        "text": "Running TypeScript code using transpilation",
+        "href": "https://nodejs.org/learn/typescript/transpile",
+        "external": false
+      },
+      {
+        "text": "Running TypeScript with a runner",
+        "href": "https://nodejs.org/learn/typescript/run",
+        "external": false
+      },
+      {
+        "text": "Publishing a TypeScript package",
+        "href": "https://nodejs.org/learn/typescript/publishing-a-ts-package",
+        "external": false
+      },
+      {
+        "text": "How to use streams",
+        "href": "https://nodejs.org/learn/modules/how-to-use-streams",
+        "external": false
+      },
+      {
+        "text": "Backpressuring in Streams",
+        "href": "https://nodejs.org/learn/modules/backpressuring-in-streams",
+        "external": false
+      },
+      {
+        "text": "Publishing a package",
+        "href": "https://nodejs.org/learn/modules/publishing-a-package",
+        "external": false
+      },
+      {
+        "text": "How to publish a Node-API package",
+        "href": "https://nodejs.org/learn/modules/publishing-node-api-modules",
+        "external": false
+      },
+      {
+        "text": "ABI Stability",
+        "href": "https://nodejs.org/learn/modules/abi-stability",
+        "external": false
+      },
+      {
+        "text": "User Journey",
+        "href": "https://nodejs.org/learn/diagnostics/user-journey",
+        "external": false
+      },
+      {
+        "text": "Overview",
+        "href": "https://nodejs.org/learn/diagnostics/memory",
+        "external": false
+      },
+      {
+        "text": "Understanding and Tuning Memory",
+        "href": "https://nodejs.org/learn/diagnostics/memory/understanding-and-tuning-memory",
+        "external": false
+      },
+      {
+        "text": "Using Heap Profiler",
+        "href": "https://nodejs.org/learn/diagnostics/memory/using-heap-profiler",
+        "external": false
+      },
+      {
+        "text": "Using Heap Snapshot",
+        "href": "https://nodejs.org/learn/diagnostics/memory/using-heap-snapshot",
+        "external": false
+      },
+      {
+        "text": "Tracing garbage collection",
+        "href": "https://nodejs.org/learn/diagnostics/memory/using-gc-traces",
+        "external": false
+      },
+      {
+        "text": "Overview",
+        "href": "https://nodejs.org/learn/diagnostics/live-debugging",
+        "external": false
+      },
+      {
+        "text": "Using Inspector",
+        "href": "https://nodejs.org/learn/diagnostics/live-debugging/using-inspector",
+        "external": false
+      },
+      {
+        "text": "Overview",
+        "href": "https://nodejs.org/learn/diagnostics/poor-performance",
+        "external": false
+      },
+      {
+        "text": "Using Linux Perf",
+        "href": "https://nodejs.org/learn/diagnostics/poor-performance/using-linux-perf",
+        "external": false
+      },
+      {
+        "text": "Flame Graphs",
+        "href": "https://nodejs.org/learn/diagnostics/flame-graphs",
+        "external": false
+      },
+      {
+        "text": "Discovering Node.js's test runner",
+        "href": "https://nodejs.org/learn/test-runner/introduction",
+        "external": false
+      },
+      {
+        "text": "Using Node.js's test runner",
+        "href": "https://nodejs.org/learn/test-runner/using-test-runner",
+        "external": false
+      },
+      {
+        "text": "Mocking in tests",
+        "href": "https://nodejs.org/learn/test-runner/mocking",
+        "external": false
+      },
+      {
+        "text": "Collecting code coverage in Node.js",
+        "href": "https://nodejs.org/learn/test-runner/collecting-code-coverage",
+        "external": false
+      },
+      {
+        "text": "What is Node-API?",
+        "href": "https://nodejs.org/learn/node-api",
+        "external": false
+      },
+      {
+        "text": "Overview",
+        "href": "https://nodejs.org/learn/node-api/getting-started",
+        "external": false
+      },
+      {
+        "text": "Pre-requisites",
+        "href": "https://nodejs.org/learn/node-api/getting-started/prerequisites",
+        "external": false
+      },
+      {
+        "text": "Tools",
+        "href": "https://nodejs.org/learn/node-api/getting-started/tools",
+        "external": false
+      },
+      {
+        "text": "Anatomy of a Node-API project",
+        "href": "https://nodejs.org/learn/node-api/getting-started/project-structure",
+        "external": false
+      },
+      {
+        "text": "Your First Project",
+        "href": "https://nodejs.org/learn/node-api/getting-started/your-first-project",
+        "external": false
+      },
+      {
+        "text": "Object Wrap",
+        "href": "https://nodejs.org/learn/node-api/getting-started/objectwrap",
+        "external": false
+      },
+      {
+        "text": "Migrating to Node-API",
+        "href": "https://nodejs.org/learn/node-api/getting-started/migration",
+        "external": false
+      },
+      {
+        "text": "Overview",
+        "href": "https://nodejs.org/learn/node-api/build-tools",
+        "external": false
+      },
+      {
+        "text": "node-gyp",
+        "href": "https://nodejs.org/learn/node-api/build-tools/node-gyp",
+        "external": false
+      },
+      {
+        "text": "CMake.js",
+        "href": "https://nodejs.org/learn/node-api/build-tools/cmake-js",
+        "external": false
+      },
+      {
+        "text": "node-pre-gyp",
+        "href": "https://nodejs.org/learn/node-api/build-tools/node-pre-gyp",
+        "external": false
+      },
+      {
+        "text": "Overview",
+        "href": "https://nodejs.org/learn/node-api/special-topics",
+        "external": false
+      },
+      {
+        "text": "Context Awareness",
+        "href": "https://nodejs.org/learn/node-api/special-topics/context-awareness",
+        "external": false
+      },
+      {
+        "text": "Object and Function References",
+        "href": "https://nodejs.org/learn/node-api/special-topics/object-function-refs",
+        "external": false
+      },
+      {
+        "text": "AsyncWorker",
+        "href": "https://nodejs.org/learn/node-api/special-topics/asyncworker",
+        "external": false
+      },
+      {
+        "text": "Thread-Safe Functions",
+        "href": "https://nodejs.org/learn/node-api/special-topics/thread-safe-functions",
+        "external": false
+      },
+      {
+        "text": "ansi-colors to util.styleText",
+        "href": "https://nodejs.org/learn/userland-migrations/ansi-colors-to-styletext",
+        "external": false
+      },
+      {
+        "text": "Axios to WHATWG Fetch",
+        "href": "https://nodejs.org/learn/userland-migrations/axios-to-whatwg-fetch",
+        "external": false
+      },
+      {
+        "text": "Chalk to util.styleText()",
+        "href": "https://nodejs.org/learn/userland-migrations/chalk-to-util-styletext",
+        "external": false
+      },
+      {
+        "text": "Correct TypeScript Specifiers",
+        "href": "https://nodejs.org/learn/userland-migrations/correct-ts-specifiers",
+        "external": false
+      },
+      {
+        "text": "Kleur to util.styleText",
+        "href": "https://nodejs.org/learn/userland-migrations/kleur-to-util-styletext",
+        "external": false
+      },
+      {
+        "text": "Mocha to Node.js Test Runner",
+        "href": "https://nodejs.org/learn/userland-migrations/mocha-to-node-test-runner",
+        "external": false
+      },
+      {
+        "text": "",
+        "href": "https://github.com/avivkeller",
+        "external": true
+      },
+      {
+        "text": "Edit this page",
+        "href": "https://github.com/nodejs/learn/edit/main/pages/index.md",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/nodejs/node",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://discord.gg/nodejs",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://social.lfx.dev/@nodejs",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://bsky.app/profile/nodejs.org",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://twitter.com/nodejs",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://slack-invite.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/node-js",
+        "external": true
+      },
+      {
+        "text": "OpenJS Foundation",
+        "href": "https://openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Trademark Policy",
+        "href": "https://trademark-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Trademark List",
+        "href": "https://trademark-list.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "AI Coding Assistants Policy",
+        "href": "https://ai-coding-assistants-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Bylaws",
+        "href": "https://bylaws.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Code of Conduct",
+        "href": "https://code-of-conduct.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Cookie Policy",
+        "href": "https://www.linuxfoundation.org/cookies/",
+        "external": true
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://privacy-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Security Policy",
+        "href": "https://github.com/nodejs/node/security/policy",
+        "external": true
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://terms-of-use.openjsf.org/",
+        "external": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://avatars.githubusercontent.com/avivkeller",
+        "alt": "avivkeller"
+      }
+    ],
+    "text": {
+      "excerpt": "On this pageLearn Node.js Welcome to the Node.js learning resources. Whether you're just getting started or looking to deepen your knowledge, these guides cover everything from the basics to advanced topics. Getting Started — Install Node.js and write your first program Command Line — Run scripts, use the REPL, and handle I/O HTTP — Build web servers and work with HTTP File System — Read, write, and manipulate files Asynchronous Work — Understand async patterns, promises, and the event loop Concurrency — Compare child processes, worker threads, and cluster TypeScript — Use TypeScript with Node.js Package Management — Publish and manage packages Diagnostics — Debug performance and memory issues Testing — Write and run tests with the built-in test runner Security — Follow security best practices",
+      "wordCount": 126,
+      "charCount": 804
+    },
+    "jsonLd": [],
+    "counts": {
+      "headings": 1,
+      "links": 117,
+      "externalLinks": 23,
+      "images": 1
+    },
+    "discoveredFrom": "nav",
+    "discoveredViaText": "Learn",
+    "elapsedMs": 1550,
+    "error": null,
+    "botWall": null,
+    "screenshot": null
+  }
+}

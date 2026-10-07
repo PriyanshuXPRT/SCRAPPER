@@ -1,0 +1,716 @@
+{
+  "version": 1,
+  "page": {
+    "order": 0,
+    "depth": 0,
+    "url": "https://heritageit.edu/",
+    "finalUrl": "https://heritageit.edu/",
+    "status": 200,
+    "contentType": "text/html; charset=utf-8",
+    "title": "Heritage Institute of Technology",
+    "description": "Best Engineering College,Engineering Colleges in Kolkata,HITK ,HIT-K,Heritage Institute of Technology,Heritage, Autonomous Engineering College,Autonomous College,Best Autonomous Engineering College in Kolkata,Best Engineering College in Kolkata,Best Engineering College in India,B.Tech courses,M.Tech Courses,MCA,Best B.Tech College,Best B.Tech Colleges,Best M.Tech College,Best M.Tech Colleges,Best MCA College,Best MCA Colleges,B.Tech,M.Tech,MCA,Kolkata, Calcutta,Premium Institute in Kolkata,Premium Institutes in Kolkata,Character Development,Collaborative Learning ,Creative Thinking,Design Thinking,Digital Storytelling,Emotional Intelligence(SEL),Exercise and Movement,Flipped Classroom,Growth Mindset,Humor,Intrinsic Motivation,Makerspaces,Metacognition,Positive Education,Project - Based Learning,Scaffolding,Workshop Model,Heritage college Kolkata,HIT Kolkata,Heritage engineering college,HIT Kolkata official website,Heritage Institute of Technology BTech courses,HIT Kolkata courses offered,Heritage college CSE fees,Heritage Institute of Technology departments,HIT Kolkata engineering branches,Heritage Institute of Technology admission 2025,HIT Kolkata BTech admission process,Heritage Institute of Technology eligibility criteria,Heritage college direct admission,Heritage Institute of Technology entrance exam,WBJEE Heritage cutoff,Engineering Colleges in Kolkata,HIT Kolkata fee structure,Heritage Institute of Technology BTech fees,Heritage engineering college scholarship,HIT college hostel and tuition fees,Heritage Institute of Technology location,HIT Kolkata campus,Heritage college address,HIT Kolkata hostel facility,Heritage Institute of Technology transportation,Heritage Institute of Technology review,Heritage engineering college ranking,HIT Kolkata placement review,Heritage college student experience,Is Heritage Kolkata good for CSE ?,HIT Kolkata placement 2024,Heritage Institute of Technology average package,Heritage college top recruiters,HIT Kolkata placement record CSE,Heritage Institute of Technology fest,HIT Kolkata campus life,Heritage Institute of Technology library,HIT Kolkata faculty quality,",
+    "siteName": null,
+    "lang": "en",
+    "canonical": null,
+    "author": null,
+    "published": null,
+    "headings": [],
+    "links": [
+      {
+        "text": "",
+        "href": "https://heritageit.edu/index.aspx",
+        "external": false
+      },
+      {
+        "text": "An Autonomous Institution affiliated to MAKAUT, West Bengal",
+        "href": "https://makautwb.ac.in/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://heritageit.edu/TEQIP.aspx",
+        "external": false
+      },
+      {
+        "text": "NAAC- SSR",
+        "href": "https://heritageit.edu/PDF/NAAC-SSR.pdf",
+        "external": false
+      },
+      {
+        "text": "Online Fees Payment",
+        "href": "https://theheritage.ac.in/LoginStudent.aspx",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://heritageit.almaconnect.com/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/Heritageit",
+        "external": true
+      },
+      {
+        "text": "Overview",
+        "href": "https://heritageit.edu/Overview.aspx",
+        "external": false
+      },
+      {
+        "text": "Message",
+        "href": "https://heritageit.edu/Message.aspx",
+        "external": false
+      },
+      {
+        "text": "Vision & Mission",
+        "href": "https://heritageit.edu/VisionAndMission.aspx",
+        "external": false
+      },
+      {
+        "text": "Quality Policy",
+        "href": "https://heritageit.edu/QualityPolicy.aspx",
+        "external": false
+      },
+      {
+        "text": "Core Values",
+        "href": "https://heritageit.edu/CoreValues.aspx",
+        "external": false
+      },
+      {
+        "text": "Board of Trustees",
+        "href": "https://heritageit.edu/BOT.aspx",
+        "external": false
+      },
+      {
+        "text": "Board of Governors",
+        "href": "https://heritageit.edu/BOG.aspx",
+        "external": false
+      },
+      {
+        "text": "Advisory Council",
+        "href": "https://heritageit.edu/AdvisoryCouncil.aspx",
+        "external": false
+      },
+      {
+        "text": "Management & Staff",
+        "href": "https://heritageit.edu/MgmtStaff.aspx",
+        "external": false
+      },
+      {
+        "text": "Recognition /Accred. /Affiliation",
+        "href": "https://heritageit.edu/AccreditationRecognition.aspx",
+        "external": false
+      },
+      {
+        "text": "International Collaboration",
+        "href": "https://heritageit.edu/InternationalCollaboration.aspx",
+        "external": false
+      },
+      {
+        "text": "Our Neighbourhood",
+        "href": "https://heritageit.edu/OurNeighbourhood.aspx",
+        "external": false
+      },
+      {
+        "text": "Awards & Achievements",
+        "href": "https://heritageit.edu/AwardsAchievements.aspx",
+        "external": false
+      },
+      {
+        "text": "Appl. Elect. & Instru. Engg.(AEIE)",
+        "href": "https://heritageit.edu/AEIE.aspx",
+        "external": false
+      },
+      {
+        "text": "Biotechnology (BT)",
+        "href": "https://heritageit.edu/BT.aspx",
+        "external": false
+      },
+      {
+        "text": "Chemical Engineering (ChE)",
+        "href": "https://heritageit.edu/ChemEngg.aspx",
+        "external": false
+      },
+      {
+        "text": "Civil Engineering (CE)",
+        "href": "https://heritageit.edu/CE.aspx",
+        "external": false
+      },
+      {
+        "text": "Computer Science & Engg.(CSE)",
+        "href": "https://heritageit.edu/CSE.aspx",
+        "external": false
+      },
+      {
+        "text": "Computer Sc. & Business Sys. (CSBS)",
+        "href": "https://heritageit.edu/CSBS.aspx",
+        "external": false
+      },
+      {
+        "text": "Computer Science & Engg. (AI & ML)",
+        "href": "https://heritageit.edu/CSE_AIML.aspx",
+        "external": false
+      },
+      {
+        "text": "Computer Science & Engg. (Data Sc.)",
+        "href": "https://heritageit.edu/CSE_DSc.aspx",
+        "external": false
+      },
+      {
+        "text": "Computer Science & Engg. (IoTCS)",
+        "href": "https://heritageit.edu/CSE_IoTCS.aspx",
+        "external": false
+      },
+      {
+        "text": "Electrical Engineering (EE)",
+        "href": "https://heritageit.edu/EE.aspx",
+        "external": false
+      },
+      {
+        "text": "Electronics & Comm. Engg. (ECE)",
+        "href": "https://heritageit.edu/ECE.aspx",
+        "external": false
+      },
+      {
+        "text": "Information Technology (IT)",
+        "href": "https://heritageit.edu/IT.aspx",
+        "external": false
+      },
+      {
+        "text": "Mechanical Engineering (ME)",
+        "href": "https://heritageit.edu/ME.aspx",
+        "external": false
+      },
+      {
+        "text": "Computer Applications",
+        "href": "https://heritageit.edu/MCABCA.aspx",
+        "external": false
+      },
+      {
+        "text": "Management Studies",
+        "href": "https://heritageit.edu/MBABBA.aspx",
+        "external": false
+      },
+      {
+        "text": "Chemistry",
+        "href": "https://heritageit.edu/Chemistry.aspx",
+        "external": false
+      },
+      {
+        "text": "Humanities",
+        "href": "https://heritageit.edu/Humanities.aspx",
+        "external": false
+      },
+      {
+        "text": "Mathematics",
+        "href": "https://heritageit.edu/Mathematics.aspx",
+        "external": false
+      },
+      {
+        "text": "Physics",
+        "href": "https://heritageit.edu/Physics.aspx",
+        "external": false
+      },
+      {
+        "text": "Programmes",
+        "href": "https://heritageit.edu/Programmes.aspx",
+        "external": false
+      },
+      {
+        "text": "Depts. offering Academic Programs",
+        "href": "https://heritageit.edu/DeptsOfferingAcademicProgramms.aspx",
+        "external": false
+      },
+      {
+        "text": "Academic Council - Minutes",
+        "href": "https://heritageit.edu/AcademicCouncil.aspx",
+        "external": false
+      },
+      {
+        "text": "B.Tech",
+        "href": "https://heritageit.edu/BTech.aspx",
+        "external": false
+      },
+      {
+        "text": "M.Tech",
+        "href": "https://heritageit.edu/MTech.aspx",
+        "external": false
+      },
+      {
+        "text": "MCA",
+        "href": "https://heritageit.edu/MCA.aspx",
+        "external": false
+      },
+      {
+        "text": "BBA",
+        "href": "https://tha.edu.in/courses/bachelor-of-business-administration-bba/",
+        "external": true
+      },
+      {
+        "text": "BCA",
+        "href": "https://tha.edu.in/courses/bachelor-of-computer-applications-bca/",
+        "external": true
+      },
+      {
+        "text": "MBA",
+        "href": "https://www.hbs.edu.in/index.php",
+        "external": true
+      },
+      {
+        "text": "Facilities",
+        "href": "https://heritageit.edu/Facilities.aspx",
+        "external": false
+      },
+      {
+        "text": "Campus",
+        "href": "https://heritageit.edu/Campus.aspx",
+        "external": false
+      },
+      {
+        "text": "Hostel",
+        "href": "https://heritageit.edu/Hostel.aspx",
+        "external": false
+      },
+      {
+        "text": "Sports Facilities",
+        "href": "https://heritageit.edu/SportsFacilities.aspx",
+        "external": false
+      },
+      {
+        "text": "Computer Centre",
+        "href": "https://heritageit.edu/ComputerCentre.aspx",
+        "external": false
+      },
+      {
+        "text": "Workshops & Seminars",
+        "href": "https://heritageit.edu/WorkshopSeminar.aspx",
+        "external": false
+      },
+      {
+        "text": "Mentoring & Counselling",
+        "href": "https://heritageit.edu/MentoringAndCounselling.aspx",
+        "external": false
+      },
+      {
+        "text": "Industry Visits",
+        "href": "https://heritageit.edu/IndustrialVisits.aspx",
+        "external": false
+      },
+      {
+        "text": "Entrepreneurship Development Cell",
+        "href": "https://heritageit.edu/EDC.aspx",
+        "external": false
+      },
+      {
+        "text": "Students' Activities",
+        "href": "https://heritageit.edu/StudentsActivities.aspx",
+        "external": false
+      },
+      {
+        "text": "Pre-Incubation Centre",
+        "href": "https://heritageit.edu/hitkincub.aspx",
+        "external": false
+      },
+      {
+        "text": "Recruitments",
+        "href": "https://heritageit.edu/Recruitment.aspx",
+        "external": false
+      },
+      {
+        "text": "Summer Training",
+        "href": "https://heritageit.edu/SummerTraining.aspx",
+        "external": false
+      },
+      {
+        "text": "Soft Skill & Other Training",
+        "href": "https://heritageit.edu/SoftSkill.aspx",
+        "external": false
+      },
+      {
+        "text": "Training & Placement Office",
+        "href": "https://heritageit.edu/TPOffice.aspx",
+        "external": false
+      },
+      {
+        "text": "Life Skills",
+        "href": "https://heritageit.edu/PDF/Life_Skills_Course_2021.pdf",
+        "external": false
+      },
+      {
+        "text": "Library",
+        "href": "https://heritageit.edu/Library.aspx",
+        "external": false
+      },
+      {
+        "text": "Class Routines",
+        "href": "https://heritageit.edu/routines.aspx",
+        "external": false
+      },
+      {
+        "text": "Online FacilitiesFor Students",
+        "href": "https://heritageit.edu/OnlineFacilities.aspx",
+        "external": false
+      },
+      {
+        "text": "PPR B.Tech 2nd & 4th, M.Tech 2nd Sem & MCA 2nd Sem",
+        "href": "http://136.232.2.201:8084/stud26er.aspx",
+        "external": true
+      },
+      {
+        "text": "Notice for commencement of 1st yr MCA classes AY 2026-27 published....Check website's Notice Board for details >>>",
+        "href": "https://heritageit.edu/news.aspx",
+        "external": false
+      },
+      {
+        "text": "Examination",
+        "href": "https://heritageit.edu/ExamCell.aspx",
+        "external": false
+      },
+      {
+        "text": "Web OPAC",
+        "href": "https://hitkopac.lsease.in/",
+        "external": true
+      },
+      {
+        "text": "Vidya Lakshmi Portal",
+        "href": "https://www.vidyalakshmi.co.in/Students/indexPopup",
+        "external": true
+      },
+      {
+        "text": "SWAYAM",
+        "href": "https://swayam.gov.in/error/resourcenotfound/?aspxerrorpath=/publiccourse",
+        "external": true
+      },
+      {
+        "text": "Best Practices",
+        "href": "https://heritageit.edu/PDF/BestPractices.pdf",
+        "external": false
+      },
+      {
+        "text": "Academic Calendar 2026-2027",
+        "href": "http://www.heritageit.edu/PDF/AcademicCalendar_2026-2027.pdf",
+        "external": true
+      },
+      {
+        "text": "EOA by AICTE for all B.Tech & M.Tech Programmes since inception",
+        "href": "https://heritageit.edu/EOA.aspx",
+        "external": false
+      },
+      {
+        "text": "EOA by AICTE for MCA programme since inception",
+        "href": "https://heritageit.edu/PDF/EOA%20AICTE%20MCA%20since%202003%20till%20merger%20with%20%20HIT%202019.pdf",
+        "external": false
+      },
+      {
+        "text": "Non-Statutory Committees",
+        "href": "https://heritageit.edu/PDF/Non%20Statutory%20Committees%202026-2027.pdf",
+        "external": false
+      },
+      {
+        "text": "Statutory Committees",
+        "href": "https://heritageit.edu/PDF/Statutory%20Committees%20HIT%202026-2027.pdf",
+        "external": false
+      },
+      {
+        "text": "NAAC: AQAR & IQAC",
+        "href": "https://heritageit.edu/AQARAndIQAC.aspx",
+        "external": false
+      },
+      {
+        "text": "SSR",
+        "href": "https://heritageit.edu/SSR.aspx",
+        "external": false
+      },
+      {
+        "text": "IIQA",
+        "href": "https://heritageit.edu/PDF/IIQA.pdf",
+        "external": false
+      },
+      {
+        "text": "Statutes, Rules & Regulations",
+        "href": "https://heritageit.edu/PDF/HIT%20Statutes_Rules_And_Regulations.pdf",
+        "external": false
+      },
+      {
+        "text": "Service Rules of the Institute",
+        "href": "https://heritageit.edu/PDF/ServiceRule21.pdf",
+        "external": false
+      },
+      {
+        "text": "NIRF Data",
+        "href": "https://heritageit.edu/NIRF.aspx",
+        "external": false
+      },
+      {
+        "text": "Organizational Chart",
+        "href": "https://heritageit.edu/PDF/OrganizationalChart.pdf",
+        "external": false
+      },
+      {
+        "text": "Undertaking",
+        "href": "https://heritageit.edu/PDF/Regulations_of_UGC.pdf",
+        "external": false
+      },
+      {
+        "text": "Strategic Plan",
+        "href": "https://heritageit.edu/PDF/StrategicPlan.pdf",
+        "external": false
+      },
+      {
+        "text": "fnf test",
+        "href": "https://fnftest.net/",
+        "external": true
+      },
+      {
+        "text": "See More",
+        "href": "https://heritageit.edu/Announcement.aspx",
+        "external": false
+      },
+      {
+        "text": "See More",
+        "href": "https://heritageit.edu/Events1.aspx",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/1149157187Not28092026.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/2101337278Not17092026.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/1461270101Not2160926.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/1783754473Not100926.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/1084361528Not04092026.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/555214867Not160926.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/120117650Not24082026.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/1119552110Not2_24_08_2026.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/227731650Not2_130826.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/1859079515Not19082026.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/2041903354Not070826.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/990422083Not06082026.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/1962219663Not03082026.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/1849402403Not0102026.pdf",
+        "external": false
+      },
+      {
+        "text": "Click here",
+        "href": "https://heritageit.edu/NoticePDF/1678091181Not23072026.pdf",
+        "external": false
+      },
+      {
+        "text": "See More",
+        "href": "https://heritageit.edu/Notice.aspx",
+        "external": false
+      },
+      {
+        "text": "The Heritage School",
+        "href": "http://www.theheritageschool.org/index.php",
+        "external": true
+      },
+      {
+        "text": "Heritage Business School",
+        "href": "http://hbs.edu.in/",
+        "external": true
+      },
+      {
+        "text": "The Heritage Academy",
+        "href": "http://www.theheritageacademy.in/",
+        "external": true
+      },
+      {
+        "text": "Heritage Law College",
+        "href": "http://www.hlc.edu.in/",
+        "external": true
+      },
+      {
+        "text": "The Heritage College",
+        "href": "http://www.thc.edu.in/",
+        "external": true
+      },
+      {
+        "text": "News",
+        "href": "https://heritageit.edu/News.aspx",
+        "external": false
+      },
+      {
+        "text": "Grievance Redressal",
+        "href": "https://heritageit.edu/GrievanceCell.aspx",
+        "external": false
+      },
+      {
+        "text": "Newsletter",
+        "href": "https://heritageit.edu/Newsletter.aspx",
+        "external": false
+      },
+      {
+        "text": "Jobs",
+        "href": "https://heritageit.edu/Jobs.aspx",
+        "external": false
+      },
+      {
+        "text": "Tender",
+        "href": "https://heritageit.edu/Tender.aspx",
+        "external": false
+      },
+      {
+        "text": "Feedback",
+        "href": "https://heritageit.edu/Feedback.aspx",
+        "external": false
+      },
+      {
+        "text": "Gallery",
+        "href": "https://heritageit.edu/ImageGallery.aspx",
+        "external": false
+      }
+    ],
+    "images": [
+      {
+        "src": "https://heritageit.edu/imagesHITK/HIT_25Yrs.jpeg",
+        "alt": "logo"
+      },
+      {
+        "src": "https://heritageit.edu/images/MakautWB.png",
+        "alt": "MAKAUT"
+      },
+      {
+        "src": "https://heritageit.edu/images/teqip.png",
+        "alt": "TEQIP"
+      },
+      {
+        "src": "https://heritageit.edu/images/AlumniPortal.png",
+        "alt": null
+      },
+      {
+        "src": "https://heritageit.edu/images/graphics-new-buttons-495545.gif",
+        "alt": null
+      },
+      {
+        "src": "https://heritageit.edu/images/FB4.png",
+        "alt": "facebook"
+      },
+      {
+        "src": "https://heritageit.edu/images/WebOpac.png",
+        "alt": "img"
+      },
+      {
+        "src": "https://heritageit.edu/imagesHITK/bullet_red.gif",
+        "alt": null
+      },
+      {
+        "src": "https://heritageit.edu/imagesHITK/WihiteColorLine.jpg",
+        "alt": "img"
+      },
+      {
+        "src": "https://heritageit.edu/images/bullet_blue.png",
+        "alt": "arrow"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/Microsoft.png",
+        "alt": "logo"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/cognizant-logo.jpg",
+        "alt": "cognizant-logo.jpg"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/infosys.jpg",
+        "alt": "logo"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/ITC_Infotech.jpg",
+        "alt": "ITC_Infotech.jpg"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/ICICI-Bank-Logo.jpg",
+        "alt": "ICICI-Bank-Logo.jpg"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/Century_Plyboards.jpg",
+        "alt": "Century_Plyboards.jpg"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/Wipro.jpg",
+        "alt": "Wipro.jpg"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/hcl_logo.png",
+        "alt": "hcl_logo.png"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/TechMahindra.png",
+        "alt": "TechMahindra.png"
+      },
+      {
+        "src": "https://heritageit.edu/CompanyLogos/Capgemini.png",
+        "alt": "Capgemini.png"
+      }
+    ],
+    "text": {
+      "excerpt": "Heritage Institute of Technology Where learning is an interactive evolutionary process An Autonomous Institution affiliated to MAKAUT, West Bengal (Accredited with 'A' Grade by NAAC w.e.f. 12/07/2022) NAAC- SSR Online Fees Payment Online Admission Enquiry 26-27 About HIT Overview Message Vision & Mission Quality Policy Core Values Board of Trustees Board of Governors Advisory Council Management & Staff Recognition /Accred. /Affiliation International Collaboration Our Neighbourhood Awards & Achievements Academics Degree Awarding Departments Appl. Elect. & Instru. Engg.(AEIE) Biotechnology (BT) Chemical Engineering (ChE) Civil Engineering (CE) Computer Science & Engg.(CSE) Computer Sc. & Business Sys. (CSBS) Computer Science & Engg. (AI & ML) Computer Science & Engg. (Data Sc.) Computer Science & Engg. (IoTCS) Electrical Engineering (EE) Electronics & Comm. Engg. (ECE) Information Technology (IT) Mechanical Engineering (ME) Computer Applications Management Studies Other Departments Chemistry Humanities Mathematics Physics Programmes Depts. offering Academic Programs Academic Council - Minutes Admission B.Tech M.Tech MCA BBA BCA MBA Infrastructure Facilities Campus Hostel Sports Facil",
+      "wordCount": 305,
+      "charCount": 2170
+    },
+    "jsonLd": [],
+    "counts": {
+      "headings": 0,
+      "links": 119,
+      "externalLinks": 18,
+      "images": 20
+    },
+    "discoveredFrom": "seed",
+    "discoveredViaText": "(seed)",
+    "elapsedMs": 3393,
+    "error": null,
+    "botWall": null,
+    "screenshot": "live\\01-page-00.png"
+  }
+}

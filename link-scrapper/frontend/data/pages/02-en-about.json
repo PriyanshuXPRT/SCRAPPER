@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "page": {
+    "order": 2,
+    "depth": 1,
+    "url": "https://nodejs.org/en/about",
+    "finalUrl": "https://nodejs.org/en/about",
+    "status": 200,
+    "contentType": "text/html; charset=utf-8",
+    "title": "Node.js — About Node.js®",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "siteName": null,
+    "lang": "en-GB",
+    "canonical": "https://nodejs.org/en/about",
+    "author": null,
+    "published": null,
+    "headings": [
+      {
+        "level": 1,
+        "text": "About Node.js®"
+      },
+      {
+        "level": 2,
+        "text": "Official Node.js Resources"
+      },
+      {
+        "level": 3,
+        "text": "Official Node.js Domains"
+      },
+      {
+        "level": 3,
+        "text": "Official npm Packages"
+      },
+      {
+        "level": 3,
+        "text": "Official GitHub Organizations"
+      },
+      {
+        "level": 3,
+        "text": "Official Communication Channels"
+      },
+      {
+        "level": 3,
+        "text": "Reporting Website Issues & Downtime"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "https://nodejs.org/en",
+        "external": false
+      },
+      {
+        "text": "Learn",
+        "href": "https://nodejs.org/learn",
+        "external": false
+      },
+      {
+        "text": "About",
+        "href": "https://nodejs.org/en/about",
+        "external": false
+      },
+      {
+        "text": "Download",
+        "href": "https://nodejs.org/en/download",
+        "external": false
+      },
+      {
+        "text": "Blog",
+        "href": "https://nodejs.org/en/blog",
+        "external": false
+      },
+      {
+        "text": "Docs",
+        "href": "https://nodejs.org/docs/latest/api/",
+        "external": false
+      },
+      {
+        "text": "Beta Docs",
+        "href": "https://beta.docs.nodejs.org/",
+        "external": true
+      },
+      {
+        "text": "Contribute",
+        "href": "https://github.com/nodejs/node/blob/main/CONTRIBUTING.md",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://github.com/nodejs/node",
+        "external": true
+      },
+      {
+        "text": "Node.js Releases",
+        "href": "https://nodejs.org/en/about/previous-releases",
+        "external": false
+      },
+      {
+        "text": "Security Reporting",
+        "href": "https://nodejs.org/en/about/security-reporting",
+        "external": false
+      },
+      {
+        "text": "Project Governance",
+        "href": "https://nodejs.org/en/about/governance",
+        "external": false
+      },
+      {
+        "text": "Partners & Supporters",
+        "href": "https://nodejs.org/en/about/partners",
+        "external": false
+      },
+      {
+        "text": "Branding of Node.js",
+        "href": "https://nodejs.org/en/about/branding",
+        "external": false
+      },
+      {
+        "text": "End-of-Life (EOL)",
+        "href": "https://nodejs.org/en/about/eol",
+        "external": false
+      },
+      {
+        "text": "Get Involved",
+        "href": "https://nodejs.org/en/about/get-involved",
+        "external": false
+      },
+      {
+        "text": "Collaboration Summit",
+        "href": "https://nodejs.org/en/about/get-involved/collab-summit",
+        "external": false
+      },
+      {
+        "text": "Upcoming Events",
+        "href": "https://nodejs.org/en/about/get-involved/events",
+        "external": false
+      },
+      {
+        "text": "Code of Conduct",
+        "href": "https://github.com/nodejs/admin/blob/main/CODE_OF_CONDUCT.md",
+        "external": true
+      },
+      {
+        "text": "Blocking vs. Non-Blocking",
+        "href": "https://nodejs.org/en/learn/asynchronous-work/overview-of-blocking-vs-non-blocking",
+        "external": false
+      },
+      {
+        "text": "Event Machine",
+        "href": "https://github.com/eventmachine/eventmachine",
+        "external": true
+      },
+      {
+        "text": "Twisted",
+        "href": "https://twisted.org/",
+        "external": true
+      },
+      {
+        "text": "child_process.fork()",
+        "href": "https://nodejs.org/api/child_process.html",
+        "external": false
+      },
+      {
+        "text": "cluster",
+        "href": "https://nodejs.org/api/cluster.html",
+        "external": false
+      },
+      {
+        "text": "nodejs.org",
+        "href": "https://nodejs.org/",
+        "external": false
+      },
+      {
+        "text": "nodejs.dev",
+        "href": "https://nodejs.dev/",
+        "external": true
+      },
+      {
+        "text": "iojs.org",
+        "href": "https://iojs.org/",
+        "external": true
+      },
+      {
+        "text": "@node-core",
+        "href": "https://npmjs.com/~node-core",
+        "external": true
+      },
+      {
+        "text": "@pkgjs",
+        "href": "https://npmjs.com/~pkgjs",
+        "external": true
+      },
+      {
+        "text": "nodejs-foundation",
+        "href": "https://npmjs.com/~nodejs-foundation",
+        "external": true
+      },
+      {
+        "text": "undici",
+        "href": "https://www.npmjs.com/package/undici",
+        "external": true
+      },
+      {
+        "text": "nodejs",
+        "href": "https://github.com/nodejs",
+        "external": true
+      },
+      {
+        "text": "pkgjs",
+        "href": "https://github.com/pkgjs",
+        "external": true
+      },
+      {
+        "text": "Node.js website repository",
+        "href": "https://github.com/nodejs/nodejs.org/issues",
+        "external": true
+      },
+      {
+        "text": "Node.js Status Page",
+        "href": "https://status.nodejs.org/",
+        "external": true
+      },
+      {
+        "text": "Edit this page",
+        "href": "https://github.com/nodejs/nodejs.org/blob/main/apps/site/pages/en/about/index.mdx",
+        "external": true
+      },
+      {
+        "text": "v24.21.0Latest LTS",
+        "href": "https://nodejs.org/blog/release/v24.21.0",
+        "external": false
+      },
+      {
+        "text": "v26.11.0Latest Release",
+        "href": "https://nodejs.org/blog/release/v26.11.0",
+        "external": false
+      },
+      {
+        "text": "",
+        "href": "https://discord.gg/nodejs",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://bsky.app/profile/nodejs.org",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://twitter.com/nodejs",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://slack-invite.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/node-js",
+        "external": true
+      },
+      {
+        "text": "OpenJS Foundation",
+        "href": "https://openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Trademark Policy",
+        "href": "https://trademark-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Trademark List",
+        "href": "https://trademark-list.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "AI Coding Assistants Policy",
+        "href": "https://ai-coding-assistants-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Bylaws",
+        "href": "https://bylaws.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Code of Conduct",
+        "href": "https://code-of-conduct.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Cookie Policy",
+        "href": "https://www.linuxfoundation.org/cookies/",
+        "external": true
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://privacy-policy.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "Security Policy",
+        "href": "https://github.com/nodejs/node/security/policy",
+        "external": true
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://terms-of-use.openjsf.org/",
+        "external": true
+      },
+      {
+        "text": "",
+        "href": "https://social.lfx.dev/@nodejs",
+        "external": true
+      }
+    ],
+    "images": [],
+    "text": {
+      "excerpt": "Skip to contentAbout Node.js® As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following \"hello world\" example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep. CJSESMconst { createServer } = require('node:http'); const hostname = '127.0.0.1'; const port = 3000; const server = createServer((req, res) => { res.statusCode = 200; res.setHeader('Content-Type', 'text/plain'); res.end('Hello World'); }); server.listen(port, hostname, () => { console.log(`Server running at http://${hostname}:${port}/`); });JavaScriptCopy to clipboardimport { createServer } from 'node:http'; const hostname = '127.0.0.1'; const port = 3000; const server = createServer((req, res) => { res.statusCode = 200; res.setHeader('Content-Type', 'text/plain'); res.end('Hello World'); }); server.listen(port, hostname, () => { console.log(`Server running at http://${hostname}:${port}/`); });JavaScriptCopy to clipboardThis is in contrast to today's more common concurrency model, in which OS threads are employed. Thread-based networking is relatively ineffi",
+      "wordCount": 624,
+      "charCount": 4378
+    },
+    "jsonLd": [],
+    "counts": {
+      "headings": 7,
+      "links": 54,
+      "externalLinks": 33,
+      "images": 0
+    },
+    "discoveredFrom": "nav",
+    "discoveredViaText": "About",
+    "elapsedMs": 1514,
+    "error": null,
+    "botWall": null,
+    "screenshot": null
+  }
+}

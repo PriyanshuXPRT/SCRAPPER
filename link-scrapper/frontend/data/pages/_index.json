@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "file": "00-home.json",
+      "order": 0,
+      "url": "https://heritageit.edu/",
+      "title": "Heritage Institute of Technology"
+    }
+  ]
+}
