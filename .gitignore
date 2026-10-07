@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Downloads
+downloads/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Test coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
