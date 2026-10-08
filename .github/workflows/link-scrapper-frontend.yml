@@ -1,0 +1,80 @@
+name: link-scrapper frontend
+
+# Runs on every push to the link-scrapper branch. The Windows Task Scheduler job
+# ("LinkScrapperAutoPush") mirrors the local working folder into that branch on
+# a 5-minute interval, so this check is what gives each of those pushes a green
+# status in the repository Activity tab.
+on:
+  push:
+    branches:
+      - link-scrapper
+
+# A new push supersedes an in-flight run on the same branch.
+concurrency:
+  group: link-scrapper-frontend-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: validate crawl data
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: link-scrapper
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # Pure Node script - no dependency install needed. Fails on malformed
+      # crawl JSON, missing source files, dangling _index.json references, or
+      # a crawl.json whose "pages" is not an array (which api.js rejects).
+      - name: Validate frontend structure and crawl data
+        run: node scripts/validate-frontend.mjs
+
+  build:
+    name: build frontend
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: link-scrapper
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - uses: actions/cache@v4
+        with:
+          path: link-scrapper/node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('link-scrapper/package-lock.json') }}
+          restore-keys: ${{ runner.os }}-node-
+
+      # Only the frontend build deps are declared in link-scrapper/package.json;
+      # the Playwright runtime from the parent project is intentionally absent
+      # because the UI does not need it. That keeps this job fast and avoids
+      # downloading browsers on every run.
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+
+      - name: Build
+        run: npm run build
+
+      # The built output is committed to the repo, so flag drift between the
+      # committed dist/ and a fresh build. Informational only: a stale dist/
+      # should not turn this check red, it just means the local build is behind.
+      - name: Report drift between committed and fresh dist
+        continue-on-error: true
+        run: |
+          if git diff --quiet -- frontend/dist; then
+            echo "committed dist/ matches a fresh build"
+          else
+            echo "::warning::committed frontend/dist differs from a fresh build - run 'npm run build' locally"
+            git --no-pager diff --stat -- frontend/dist
+          fi
